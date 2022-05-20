@@ -1,6 +1,7 @@
 - 👋 Hi, I’m user @Rs1811.
 - 👀 I’m interested in learning new things that don't sweat me too much.
-- 🌱 I’m currently learning Python, it's not sweating me too much like java did.
+- 🌱 I’m always learning new things in Python, it's not sweating me too much like java did(but it is good).
+- 🛺 I'm a tester with automation and manual knowledge.
 - 💞️ I’m looking to collaborate?
 - 📫 How to reach me?
 
